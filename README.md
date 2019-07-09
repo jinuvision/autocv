@@ -1,4 +1,4 @@
-# autocv
+# AutoCV
 2nd Prize Code in AutoCV Challenge
 
 You should refer this link(https://github.com/HeungChangLee/autodl_starting_kit_stable).
